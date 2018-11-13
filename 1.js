@@ -19,4 +19,3 @@ git is useful
 
 
 
-hello keiti!
