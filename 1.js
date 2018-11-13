@@ -1,4 +1,4 @@
-
+<<<<<<<<<<<<<
 git is useful
 aaaaaaa
 =======
@@ -6,9 +6,6 @@ git is useful
 闫二苟wangwangwang
 闫二喵miaomiaomiao
 闫二瓜guaguagau
-
-
-
 太
    真  
        实
@@ -16,4 +13,4 @@ git is useful
               老
                   哥
                      ！
-
+>>>>>>>>>>>>>>>>>>>>>>>>
